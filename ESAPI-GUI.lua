@@ -3,9 +3,7 @@
 --- Created by 86184.
 --- DateTime: 2023/5/5 16:00
 ---
----SUFFIX   : 类型
----GUI      : table
----ID       :
+
 require('triggers')
 local scene_prop_id = 2576
 local color_white = 0xffffff
